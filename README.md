@@ -1,4 +1,4 @@
-# NodeJS-Basic-Routes-Assignment7
+# NodeJS-Route-Parameters-Assignment7
 
 A beginner-friendly Node.js Express assignment created to understand **route parameters, query parameters, dynamic routing, and handling request data using `req.params` and `req.query`.**
 
@@ -137,7 +137,7 @@ Course: FullStack
 Navigate to the assignment folder:
 
 ```bash
-cd NodeJS-Assignment7
+cd NodeJS-Route-Parameters-Assignment7
 ```
 
 Install the required dependency:
